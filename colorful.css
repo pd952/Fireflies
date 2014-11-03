@@ -1,0 +1,47 @@
+
+/*input { 
+    height:70px;
+    width: 300px;
+    font-size: 500px;
+
+    border: 0px solid;
+    background-color: transparent;
+}
+*/
+
+.clean {
+	margin: 0 auto; 
+    height:70px;
+    width: 500px;
+    border: 0px solid;
+    font-size: 40px;
+    font-family: helvetica;
+    padding: 40px;
+    vertical-align: center;
+}
+
+.invisible {
+	position: relative;
+	margin-top: 70px;
+	margin: 10px 20px;
+	width: 200px;
+	height: 200px;
+	font-family: helvetica;
+	font-size:0px;
+	border: 0;
+    background: transparent;
+    border: none;
+}
+
+.hello {
+	position: relative;
+	margin-top: 70px;
+	margin: 10px 10px;
+	width: 200px;
+	height: 200px;
+	font-family: helvetica;
+	border: 0;
+    background: #F7EEDD;
+    border: none;
+}
+
